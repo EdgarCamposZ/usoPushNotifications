@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638117768156",
+    "project_id": "usopushnotifications",
+    "storage_bucket": "usopushnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638117768156:android:3f1366358415d9f4b33d19",
+        "android_client_info": {
+          "package_name": "com.edgcam.usopushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638117768156-u368hj78142csg9fd73k9jjdr3k9jsq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4glVJTAnZgsPoQq5tWvBTnSqUBVfT5Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638117768156-u368hj78142csg9fd73k9jjdr3k9jsq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
